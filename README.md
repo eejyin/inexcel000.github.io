@@ -16,6 +16,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+J. Yin, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," in IEEE Access, vol. 7, pp. 43318-43330, 2019.
+doi: 10.1109/ACCESS.2019.2908681
+keywords: {cognitive radio;graph theory;Internet of Things;machine-to-machine communication;OFDM modulation;optimisation;quality of experience;radio networks;radio spectrum management;resource allocation;wireless channels;spectrum-sharing OFDM networks;wireless communication systems;machine-to-machine communication;QoE-oriented uplink rate control;resource allocation scheme;evaluation model;mean opinion score;short-term resource allocation problems;current transmission time slots;long-term optimization problem;admission rate control subproblem;resource allocation subproblem;Gale-Shapley algorithm;two-dimensional matching problem;transmission rate;cognitive M2M communication;Internet of Things network;machine-type communication devices;Lyapunov optimization;signal-to-interference plus noise ratio;subchannel selection subproblem;joint power optimization subproblem;Machine-to-machine communications;Optimization;Resource management;Manganese;Quality of experience;Interference;Signal to noise ratio;M2M communication;QoE;Lyapunov optimization;Gale-Shapley algorithm;rate control;resource allocation},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678771&isnumber=8600701
 
 - Bulleted
 - List

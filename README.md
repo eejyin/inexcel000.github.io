@@ -52,7 +52,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yinjunjie98/yinjunjie98.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-**J. Yin**, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," in IEEE Access, vol. 7, pp. 43318-43330, 2019. [Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678771&isnumber=8600701)
+**J. Yin**, Y. Chen, G. Sang, B. Liao and X. Wang, "[QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8678771&isnumber=8600701)," in IEEE Access, vol. 7, pp. 43318-43330, 2019. 
 
 
 

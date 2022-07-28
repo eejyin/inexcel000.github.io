@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">](https://orcid.org/0000-0001-7782-7274)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -98,7 +101,8 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+![27b8385a-520e-429c-96a1-1a4060b2390f-fba14444961e small](https://user-images.githubusercontent.com/57343270/181410644-ea07427a-ea7b-4f1b-a7e7-fa91613af1ef.jpeg)
 
 
 ### Definition lists can be used with HTML syntax.
